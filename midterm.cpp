@@ -2,6 +2,7 @@
 using namespace std;
 main(){
 	int choice,balance,amount;
+	balance = 0;
 	do {
 	cout<<"***MENU***"<<endl;
 	cout<<"1. Check balance"<<endl;
